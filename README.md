@@ -2,6 +2,9 @@
 
 A remake of the popular dingle pop game ... Mario Style!
 
+##### How to run 
+Pull the respository and run DingleMarioGame.java as an applet!
+
 ###Lead Developer: Daniyal Khan###
 ###Lead Designer: Ryan Nhieu###
 ###Start Date: April 2010###
