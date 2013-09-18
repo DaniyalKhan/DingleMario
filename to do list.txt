@@ -1,0 +1,8 @@
+write to high scores
+credits
+commenting constants 
+drop balls
+line showing where ball is going
+put mario and luigi characters on game screen
+time functionszzzz
+autoshoot
