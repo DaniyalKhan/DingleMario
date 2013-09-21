@@ -2,7 +2,16 @@
 
 A remake of the popular dingle pop game ... Mario Style!
 
-##### How to run 
+ScreenShots:
+=============
+![Main Menu Screen](/screenshots/s1.png)
+![Intro](/screenshots/s2.png)
+![How To Play](/screenshots/s3.png)
+![Gameplay 1](/screenshots/s4.png)
+![Gameplay 2](/screenshots/s5.png)
+
+How to run 
+=============
 Pull the respository and run DingleMarioGame.java as an applet!
 
 ###Lead Developer: Daniyal Khan###
